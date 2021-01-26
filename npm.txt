@@ -1,0 +1,8 @@
+#Untuk melihat semua list npm library yang terinstall
+npm list -g --depth=0
+
+#Untuk mengecek URL path instalasi global npm
+npm root -g
+
+#Menghapus cache npm
+npm cache clean
